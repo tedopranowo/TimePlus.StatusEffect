@@ -3,6 +3,8 @@ TimePlus.StatusEffect is a Unity tools developed to allow user to create variety
 
 [![Watch the video](https://img.youtube.com/vi/0PLvlRxStz4/0.jpg)](https://youtu.be/0PLvlRxStz4)
 
+[Download as Unity Package](https://drive.google.com/open?id=1L36Ob339jv11fmFi1tpuDgQHJrQxK3F3)
+
 ## Instructions
 ### Adding StatusEffect Container to GameObject
 To make a GameObject able to receive StatusEffect, simply add “StatusEffectHandler” to the game object as new component
